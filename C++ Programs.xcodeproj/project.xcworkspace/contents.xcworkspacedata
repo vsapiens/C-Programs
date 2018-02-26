@@ -2,6 +2,69 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:C++ Programs.xcodeproj">
+      location = "group:../A+B">
+   </FileRef>
+   <FileRef
+      location = "group:../Age Test">
+   </FileRef>
+   <FileRef
+      location = "group:../BMI">
+   </FileRef>
+   <FileRef
+      location = "group:../Character">
+   </FileRef>
+   <FileRef
+      location = "group:../Exam">
+   </FileRef>
+   <FileRef
+      location = "group:../Fibonacci Series">
+   </FileRef>
+   <FileRef
+      location = "group:../h3_pr2">
+   </FileRef>
+   <FileRef
+      location = "group:../homework04_A01039859">
+   </FileRef>
+   <FileRef
+      location = "group:../hr3_pr3">
+   </FileRef>
+   <FileRef
+      location = "group:../hw3_pr4">
+   </FileRef>
+   <FileRef
+      location = "group:../Integer Counter">
+   </FileRef>
+   <FileRef
+      location = "group:../LOOPS03">
+   </FileRef>
+   <FileRef
+      location = "group:../Meters to Miles">
+   </FileRef>
+   <FileRef
+      location = "group:../Month Number">
+   </FileRef>
+   <FileRef
+      location = "group:../Multiplication Table">
+   </FileRef>
+   <FileRef
+      location = "group:../Problem #1">
+   </FileRef>
+   <FileRef
+      location = "group:../Rectangle">
+   </FileRef>
+   <FileRef
+      location = "group:../Roots">
+   </FileRef>
+   <FileRef
+      location = "group:../September Days">
+   </FileRef>
+   <FileRef
+      location = "group:../Simple Series">
+   </FileRef>
+   <FileRef
+      location = "group:../Volume of A cylinder">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>
